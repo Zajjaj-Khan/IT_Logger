@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Updated Server on linux machine 003",
+      "attention": true,
+      "date": "06-11-2019",
+      "tech": "Zajjaj "
+    },
+    {
+      "id": 3,
+      "message": "Updated Server on Windows machine 050",
+      "attention": false,
+      "date": "09-11-2019",
+      "tech": "Hamza "
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Hamza",
+      "LastName": "Bangash",
+      "id": 1
+    },
+    {
+      "firstName": "Akbar",
+      "LastName": "Salman",
+      "id": 2
+    },
+    {
+      "firstName": "Fahad",
+      "LastName": "mirza",
+      "id": 4
+    }
+  ]
+}
