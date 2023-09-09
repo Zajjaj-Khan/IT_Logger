@@ -8,7 +8,7 @@ Its a simple ReactJS application that let user maintain the logs for the tech ma
 
 ### Git Clone
 
-```
+```http
 git clone https://github.com/Zajjaj-Khan/IT_Logger.git
 ```
 
