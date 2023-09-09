@@ -9,12 +9,15 @@ import AddLogModel from './components/logs/AddLogModel';
 import EditLogModal from './components/logs/EditLogModal';
 import AddTechModal from './components/techs/AddTechModal';
 import TechListModal from './components/techs/TechListModal';
+import { Provider } from 'react-redux';
+import Store from './Store';
 const  App = () => {
   useEffect(() => {
     M.AutoInit();
   }, []);
   
   return (
+    <Provider store ={Store}>
     <Fragment>
     <SearchBar/>
     <div className='container'>
@@ -27,6 +30,7 @@ const  App = () => {
 
     </div>
     </Fragment>
+    </Provider>
   )
 }
 
