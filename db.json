@@ -8,18 +8,11 @@
       "tech": "Sam Smith"
     },
     {
-      "id": 2,
-      "message": "Updated Server on linux machine 003",
-      "attention": true,
-      "date": "06-11-2019",
-      "tech": "Zajjaj "
-    },
-    {
       "id": 3,
-      "message": "Updated Server on Windows machine 050",
+      "message": "Update required Server on Windows machine 051",
       "attention": false,
-      "date": "09-11-2019",
-      "tech": "Hamza "
+      "tech": "Zajjaj Khan",
+      "date": "2023-09-12T15:23:05.453Z"
     }
   ],
   "techs": [
