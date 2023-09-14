@@ -1,26 +1,21 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "message": "Heating Problem faced by server 009",
+      "attention": true,
+      "tech": "Zara Abasi",
+      "date": "2023-09-14T14:28:05.057Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Update required Server on Windows machine 051",
+      "message": "Fixed a broken hardware",
       "attention": false,
-      "tech": "Zajjaj Khan",
-      "date": "2023-09-12T15:23:05.453Z"
+      "tech": "Akbar Salman",
+      "date": "2023-09-14T16:13:07.816Z",
+      "id": 3
     }
   ],
   "techs": [
-    {
-      "firstName": "Hamza",
-      "LastName": "Bangash",
-      "id": 1
-    },
     {
       "firstName": "Akbar",
       "LastName": "Salman",
@@ -30,6 +25,21 @@
       "firstName": "Fahad",
       "LastName": "mirza",
       "id": 4
+    },
+    {
+      "firstName": "Ahmed",
+      "LastName": "Salman",
+      "id": 5
+    },
+    {
+      "firstName": "Zajjaj",
+      "LastName": "Bin Sana",
+      "id": 6
+    },
+    {
+      "firstName": "Shanzae",
+      "lastName": "Malik",
+      "id": 7
     }
   ]
 }
